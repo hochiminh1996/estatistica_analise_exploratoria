@@ -8,9 +8,9 @@
 
 <h2>Integrantes</h2>
 
-- [ ] Diego Marques
-- [ ] Felippe Marques
-- [ ] Nalbert Lucas
+- [x] Diego Marques
+- [x] Felippe Marques
+- [x] Nalbert Lucas
 
 <hr>
 
